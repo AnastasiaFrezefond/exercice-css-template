@@ -1,0 +1,24 @@
+.conteneur{
+	width: 1000px;
+	margin:  0 auto;
+}
+header{
+	background: tomato;
+	height: 150px;
+}
+.gauche, .droite, .milieu{
+	height: 400px;
+	float:left;
+}
+.gauche{
+	background: blue;
+	width:150px;
+}
+.milieu{
+	background: green;
+	width: 700px;
+}
+.droite{
+	background: brown;
+	width:150px;
+}
